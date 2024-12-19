@@ -1,13 +1,15 @@
 ## About
 
-Sistem Pengajuan Bantuan Pada Dinas Kelautan Dan Perikanan PEMPROV SULTENG
+Sistem Pengajuan Cuti Pada BKPSDM
+INI LARAVEL 11
+SESUAIKAN VERSI PHP
 
 #### Installation
 
 copy and jalankan kode di bawah ini di terminal komputer anda
 
 ```bash
-git clone https://github.com/JoCodes2/Sistem-Pengajuan-Bantuan.git
+git clone https://github.com/JoCodes2/cuti-app.git
 ```
 
 install commposser di komputer anda
